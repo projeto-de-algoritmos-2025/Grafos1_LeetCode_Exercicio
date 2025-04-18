@@ -17,8 +17,9 @@ Para explorar o conteúdo do tópico de Grafos 1, a dupla escolheu dois exercíc
 ### [329 (Difícil)](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)
 Modelei a matriz como um grafo e usei DFS para buscar caminhos crescentes. Para otimizar, utilizei memoização para guardar o tamanho do maior caminho a partir de cada célula já vista. A DFS visita cada nó, explora vizinhos maiores e retorna o maior caminho, usando valores memoizados. O resultado é o máximo dos caminhos encontrados pela DFS iniciada em cada célula.
 
-![PrintResolucao329](/assets/329img.png)
-[![Vídeo de apresentação](https://www.youtube.com/watch?v=o51kJ3xiWRM/0.jpg)](https://www.youtube.com/watch?v=o51kJ3xiWRM)
+![PrintResolucao329](/assets/329img.png)<br>
+
+https://www.youtube.com/watch?v=o51kJ3xiWRM
 
 
 
