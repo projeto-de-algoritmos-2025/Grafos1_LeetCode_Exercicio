@@ -20,14 +20,19 @@ Temas:
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 22/2006383  | Rafael Melo Matuda |
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Para explorar o conteúdo do tópico de Grafos 1, a dupla escolheu dois exercícios na plataforma online LeetCode: dois de nível difícil e dois de nível médio, para igualar o trabalho de cada um dos membros. 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### [329 (Difícil)](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)
+Modelei a matriz como um grafo e usei DFS para buscar caminhos crescentes. Para otimizar, utilizei memoização para guardar o tamanho do maior caminho a partir de cada célula já vista. A DFS visita cada nó, explora vizinhos maiores e retorna o maior caminho, usando valores memoizados. O resultado é o máximo dos caminhos encontrados pela DFS iniciada em cada célula.
+
+![PrintResolucao329]()
+
+
 
 ## Instalação 
 **Linguagem**: xxxxxx<br>
