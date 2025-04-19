@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=KaMLwiLbfG4
 
 ### [2360 (Difícil)](https://leetcode.com/problems/longest-cycle-in-a-graph)
 
-![PrintResolucao2360](/assets/2360img.png)<br>
+![PrintResolucao2360](/assets/2360img.png)
 
 https://www.youtube.com/watch?v=LOkl3O_z8ko
 
