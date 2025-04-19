@@ -25,9 +25,21 @@ https://www.youtube.com/watch?v=o51kJ3xiWRM
 ### [797 (Médio)](https://leetcode.com/problems/all-paths-from-source-to-target)
 Modelei o grafo dado e usei DFS para encontrar todos os caminhos do nó inicial ao nó final. A DFS explora cada nó, segue para os vizinhos e guarda cada caminho completo encontrado. O resultado é a lista de todos os caminhos válidos do início ao fim do grafo
 
-![PrintResolucao329](/assets/797img.png)<br>
+![PrintResolucao797](/assets/797img.png)<br>
 
 https://www.youtube.com/watch?v=KaMLwiLbfG4
+
+### [2360 (Difícil)](https://leetcode.com/problems/longest-cycle-in-a-graph)
+
+![PrintResolucao2360](/assets/2360img.png)<br>
+
+https://www.youtube.com/watch?v=LOkl3O_z8ko
+
+### [785 (Médio)](https://leetcode.com/problems/is-graph-bipartite)
+
+![PrintResolucao2360](/assets/785img.png)<br>
+
+https://www.youtube.com/watch?v=A6-DgQbq6Ek
 
 ## Instalação 
 **Linguagem**: Python<br>
